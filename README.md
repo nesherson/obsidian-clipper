@@ -19,9 +19,6 @@ The plugin runs on port `27123` by default.
 3. Click **"Load Temporary Add-on…"**
 4. Select the `manifest.json` file inside this folder
 
-> For a permanent install you would package it as a signed `.xpi` file.
-> For development, temporary loading is the easiest approach.
-
 ### 3. Configure the extension
 
 Click the extension icon in the toolbar. Enter:
